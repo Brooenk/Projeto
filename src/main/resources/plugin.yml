@@ -1,0 +1,10 @@
+name: Projeto
+main: me.projeto.Projeto
+version: 1.0
+author: Xavier
+description: Plugin em desenvolvimento
+commands:
+  ajuda:
+    aliases: helpme
+  entidade:
+    aliases: Entidade
